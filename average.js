@@ -9,5 +9,3 @@ function calculateAverage(data) {
 }
 
 module.exports = { calculateAverage };
-
-console.log("Проверка Дениса:", calculateAverage(grades));
